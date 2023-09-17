@@ -71,7 +71,7 @@
         <hessian.version>4.0.38</hessian.version>
         <protostuff.version>1.0.12</protostuff.version>
         <kryo.version>0.42</kryo.version>
-        <fst.version>2.50</fst.version>
+        <fst.version>2.51</fst.version>
         <fastjson.version>1.2.45</fastjson.version>
         <zookeeper.version>3.4.11</zookeeper.version>
         <curator.version>4.0.0</curator.version>
